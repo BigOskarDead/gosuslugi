@@ -1,0 +1,15 @@
+C:\Users\Stydent\source\repos\gosuslugi\bin\Debug\gosuslugi.exe.config
+C:\Users\Stydent\source\repos\gosuslugi\bin\Debug\gosuslugi.exe
+C:\Users\Stydent\source\repos\gosuslugi\bin\Debug\gosuslugi.pdb
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\gosuslugi.csprojAssemblyReference.cache
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\MainWindow.g.cs
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\App.g.cs
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\gosuslugi_MarkupCompile.cache
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\gosuslugi_MarkupCompile.lref
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\MainWindow.baml
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\gosuslugi.g.resources
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\gosuslugi.Properties.Resources.resources
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\gosuslugi.csproj.GenerateResource.cache
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\gosuslugi.csproj.CoreCompileInputs.cache
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\gosuslugi.exe
+C:\Users\Stydent\source\repos\gosuslugi\obj\Debug\gosuslugi.pdb
